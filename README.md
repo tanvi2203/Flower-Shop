@@ -1,2 +1,2 @@
-# Flower-Shop
-Flower shop Website using HTML Code
+# Flower-Shop Website
+
